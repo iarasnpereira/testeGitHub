@@ -1,6 +1,7 @@
 public class Aluno extends Pessoa {
 
-	private Matricula matricula;
+	private String rm;
+	private String nome;
 
 	public void SolicitarMatricula() {
 
